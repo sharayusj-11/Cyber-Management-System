@@ -15,16 +15,16 @@ A Management System for the elaboration of User System
 # Screenshots
 
 #BIO
-<img src="/images/bio.png"></img>
+<img src="/management project/images/bio.png"></img>
 #LOGIN
-<img src="/images/login.png"></img> 
+<img src="/management project/images/login.png"></img> 
 #CONFIRM 
-<img src="/images/confirm.png"></img> 
+<img src="/management project/images/confirm.png"></img> 
 #DASHBOARD
-<img src="/images/dashboard.png"></img> 
+<img src="/management project/images/dashboard.png"></img> 
 #INFO
-<img src="/images/info.png"></img> 
+<img src="/management project/images/info.png"></img> 
 #MAIN
-<img src="/images/main.png"></img> 
+<img src="/management project/images/main.png"></img> 
 #REGISTRATION
-<img src="/images/registration.png"></img>
+<img src="/management project/images/registration.png"></img>
